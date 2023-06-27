@@ -1,0 +1,70 @@
+ros:
+https://blog.csdn.net/takedachia/category_11584500.html
+
+点云分割综述：https://blog.csdn.net/wang6562009/article/details/129175968
+
+RangeNet:
+https://github.com/PRBonn/lidar-bonnetal
+RangeNet-onnx:
+https://github.com/andrewkouri/lidar-bonnetal/blob/master/train/tasks/semantic/create_onnx.py
+RangeNet-trt:
+https://github.com/PRBonn/rangenet_lib
+RangeNet-read:
+https://zhuanlan.zhihu.com/p/404242808
+video : https://www.bilibili.com/video/BV1kA411B7jG/?vd_source=0873d34a30765494b9d6d988bd583905
+RangeNet- convert ROS pointclound2 -> kitti .bin file datatype
+https://github.com/PRBonn/lidar-bonnetal/issues/78
+RangeNet- How important is remission/how is it used? #21
+https://github.com/PRBonn/lidar-bonnetal/issues/21
+RangeNet- time speed in AGX
+https://github.com/PRBonn/lidar-bonnetal/issues/18
+RangeNet- How will the Sphere projection change if Lidar height is changed? #4
+https://github.com/PRBonn/lidar-bonnetal/issues/4
+
+LMSCNet:
+https://github.com/astra-vision/LMSCNet
+
+EfficientLPS:
+https://github.com/robot-learning-freiburg/EfficientLPS
+
+
+SqueezeSeg-read:
+https://zhuanlan.zhihu.com/p/43598102
+SqueezeSeg-code:
+https://github.com/BichenWuUCB/SqueezeSeg
+
+RangLANet-read：
+https://zhuanlan.zhihu.com/p/105433460
+
+LENet-read (无源码只有参考):
+https://blog.csdn.net/CV_Autobot/article/details/128991275
+LENet-code(based on MotionSeg3D):
+https://github.com/haomo-ai/MotionSeg3D
+
+AOP-Net-read: (无源码)
+https://blog.csdn.net/CV_Autobot/article/details/128928630
+
+GFNet-code:
+https://github.com/haibo-qiu/GFNet
+
+Panoptic-PolarNet-code:
+https://github.com/edwardzhou130/Panoptic-PolarNet
+
+PolarNet-code:
+https://github.com/edwardzhou130/PolarSeg
+
+VoxFormer-code:
+https://github.com/NVlabs/VoxFormer
+
+-------------s3---------------------------
+SparseTransformer：
+https://github.com/dvlab-research/SparseTransformer
+
+PMF:
+https://github.com/ICEORY/PMF
+
+Cylinder3D：
+https://github.com/xinge008/Cylinder3D
+
+RandLA：
+https://github.com/tsunghan-wu/RandLA-Net-pytorch
